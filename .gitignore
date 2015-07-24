@@ -1,0 +1,12 @@
+build
+dist
+funclist
+Makefile
+Makefile*.*
+Package*.*
+*.pdsprj
+*.obj
+backup*.*
+*.bak
+*.pdsbak
+*.workspace
